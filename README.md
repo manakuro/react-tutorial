@@ -1,2 +1,2 @@
 # react-tutorial
-React.js Tutorial
+React.js Tutorial Starter Kit
