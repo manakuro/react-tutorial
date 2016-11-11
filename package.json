@@ -1,0 +1,38 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.1",
+    "del": "^2.2.2",
+    "glob": "^7.1.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-util": "^3.0.7",
+    "hapi": "^15.2.0",
+    "hapi-dust": "^2.0.0",
+    "inert": "^4.0.2",
+    "jquery": "^3.1.1",
+    "loadash": "0.0.1",
+    "lodash": "^4.16.6",
+    "lodash.assign": "^4.2.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "reactify": "^1.1.1",
+    "run-sequence": "^1.2.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "vision": "^4.1.0",
+    "watchify": "^3.7.0"
+  }
+}
